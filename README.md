@@ -10,7 +10,8 @@ This project uses **Machine Learning** to predict job satisfaction levels based 
 The model analyzes the `ai_job_impact.csv` data to find patterns and provide predictions on how satisfied an employee might be in their role.
 
 ### Output & Training Results:
-![Model Implementation and Output](output.png)
+<img width="1000" height="555" alt="WhatsApp Image 2026-08-28 at 6 53 12 AM" src="https://github.com/user-attachments/assets/0705112f-a362-47e1-9b59-93bf4edb55a5" />
+
 
 ---
 *Created by Haider Al-Dookhi - Data Science Student*
